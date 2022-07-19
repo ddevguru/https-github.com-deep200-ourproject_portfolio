@@ -1,0 +1,62 @@
+.main
+{
+background-image: url('bgim.jpg');
+
+margin-top: -45px;
+width:1500px;
+height:800px;
+background-size: 100%;
+}
+.por
+{
+	font-family: sans-serif;
+	text-align: left;
+	padding: 15px 50px;
+	font-size: 50px;
+	color: white;
+}
+.pro1
+{
+	background-image: url('yash1.jpeg');
+	margin-top: -290px;
+	
+	margin-left: 490px;
+width:400px;
+height:400px;
+background-size: 100%;
+border-radius: 20px;
+}
+.pro2
+{
+	background-image: url('deep.jpeg');
+	margin-top: -560px;
+	
+	margin-left: 450px;
+width:400px;
+height:400px;
+background-size: 100%;
+border-radius: 20px;
+}
+.fc1
+{
+	
+	
+	margin-top: 350px;
+	margin-left: -50px;
+	
+width:500px;
+height:200px;
+background-size: 100%;
+border-radius: 20px;
+}
+.prhead
+{
+	text-align: left;
+	margin-left: 40px;
+	margin-top: 80px;
+	padding: 30px 15px;
+}
+hr
+{
+	margin-top: 70px;
+}
